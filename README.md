@@ -1,8 +1,8 @@
 # News Image 25 November 2026
 
-![News Image 25 November 2026](https://make.fun/badge/news-image-20261125.svg)
-![Rank](https://make.fun/badge/news-image-20261125/itzalisha99/news-image-20261125/rank.svg)
-![Reward](https://make.fun/badge/news-image-20261125/itzalisha99/news-image-20261125/reward.svg)
+[![make.fun](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125)
+[![Rank](https://make.fun/badge/news-image-20261125/itzalisha99/news-image-20261125/rank.svg)](https://make.fun/bounty/news-image-20261125)
+[![Reward](https://make.fun/badge/news-image-20261125/itzalisha99/news-image-20261125/reward.svg)](https://make.fun/bounty/news-image-20261125)
 
 One image summing up the world's news of **Wednesday 25 November 2026**:
 50 stories across 7 regions, each with its source, a UTC timeline of the day,
